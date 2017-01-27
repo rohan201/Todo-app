@@ -1,0 +1,25 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "new app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/rohan201/react"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "rohan",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.2",
+    "webpack": "^1.14.0"
+  }
+}
